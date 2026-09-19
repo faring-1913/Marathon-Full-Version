@@ -246,4 +246,4 @@ This repository serves as the official landing page for Marathon. The software i
 **Get the most recent version of Marathon today!**
 
 ---
-**Last updated:** 2026-09-19 09:54:39 UTC
+**Last updated:** 2026-09-19 13:33:53 UTC
